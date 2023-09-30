@@ -1,13 +1,4 @@
-<!-- # Employee Database
-
-- Created a simple `Employee` database with two tables: "Employee" and "Department".
-- The Employee table contains columns: EmployeeID, FirstName, LastName, DateOfBirth, Gender, DepartmentID, Salary and HireDate.
-- The Department table contains columns: DepartmentID and DepartmentName.
-- Basic operations are performed like selecting all data from both tables, finding Employees by DepartmentID and DepartmentName, Average Salary of Employees, etc.
-- Applied update and delete cascade.
-  -->
-
-  # Employee Database Project
+# Employee Database
 
 This project is a simple employee database management system created using SQL. It includes the creation of two tables: `Departments` and `Employees`, along with sample data and several SQL queries to retrieve information. The project is aimed at demonstrating how to set up a basic employee database and perform common operations.
 
